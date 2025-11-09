@@ -1,0 +1,9 @@
+# Exclude HTML files with embedded secrets
+Output/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
